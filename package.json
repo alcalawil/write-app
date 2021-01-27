@@ -1,0 +1,17 @@
+{
+  "name": "write",
+  "version": "1.0.0",
+  "description": "A simple writing app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-curl": "^1.0.1",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7"
+  }
+}
